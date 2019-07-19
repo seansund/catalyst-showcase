@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+*.iml
+dist/
+coverage/
+logs/
+pacts/
+.bluemix/
+.helm/
